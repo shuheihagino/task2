@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1-snS2azrAp6FjlEiis8vb386dWBpxzsm/edit?us
 https://cacoo.com/diagrams/430FN98YVhalWSGO/650B8
 
 ## >  ER図
-![スクリーンショットtask1_1](https://user-images.githubusercontent.com/103012128/168024621-62496bc0-783c-41a8-b12b-61712ecae439.png)
+![スクリーンショット (11)](https://user-images.githubusercontent.com/103012128/169788985-340d1e23-1f94-412b-b547-0c88c8d5e3d5.png)
 
 ## >  画面遷移図 
-![スクリーンショットtask1_2](https://user-images.githubusercontent.com/103012128/168025510-5a7a11ac-64b5-4c8c-9f79-b5415c23c6bf.png)
+![スクリーンショット (12)](https://user-images.githubusercontent.com/103012128/169788994-04983700-bc0f-4f97-86c2-5daeec35deab.png)
