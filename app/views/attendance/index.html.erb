@@ -1,0 +1,23 @@
+  <h1>出退勤</h1>
+
+  <table>
+ <thead>
+    <tr>
+      <th class="header1">出社時刻</th>
+      <th class="header2">退社時刻</th>
+    </tr>
+  </thead>
+  <tbody>
+  <% @time.each do |time| %>
+    <tr>
+      <td><%= time.start_time  %></td>
+      <td><%= time.end_time  %></td>
+      <td><%= link_to '削除' , attendance, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    </tr>
+  <% end %>
+</tbody>
+</table>
+
+  <li><%= link_to "出勤",   'start' %></li>
+</div>
+
